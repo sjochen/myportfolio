@@ -1796,6 +1796,11 @@ input, select, textarea {
 				width: auto;
 			}
 
+	.about-pic{
+		width: 65%;
+		max-height: 550px;
+	}
+
 /* List */
 
 	ul {
